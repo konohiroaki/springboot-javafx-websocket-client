@@ -19,7 +19,7 @@ You can use [springboot-websocket-server](https://github.com/konohiroaki/springb
 
 A GUI app will startup. You can easily understand the usage of the GUI app.
 
-#### Use .jar
+#### Create .jar
 When you need a jar file, run
 
 ```
